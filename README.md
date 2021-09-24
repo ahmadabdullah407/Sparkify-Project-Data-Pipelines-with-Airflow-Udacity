@@ -99,7 +99,10 @@ main
 ```
 
 ## DAG:
-
+### Graph View:
+![](https://raw.githubusercontent.com/ahmadabdullah407/Sparkify-Project-Data-Pipelines-with-Airflow-Udacity/main/dag.JPG)
+### Tree View:
+![](https://raw.githubusercontent.com/ahmadabdullah407/Sparkify-Project-Data-Pipelines-with-Airflow-Udacity/main/dag_tree.jpg)
 ## Code Usage
 
 Copy the files in respective folders for your own Airflow installation and execute the DAG.
